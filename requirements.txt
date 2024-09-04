@@ -1,0 +1,5 @@
+scipy
+numpy
+pioneer-das-api
+natsort
+filterpy
